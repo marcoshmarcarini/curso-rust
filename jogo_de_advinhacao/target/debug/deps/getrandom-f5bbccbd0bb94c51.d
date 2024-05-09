@@ -1,0 +1,11 @@
+D:\OneDrive\Documents\GitHub\curso-rust\jogo_de_advinhacao\target\debug\deps\libgetrandom-f5bbccbd0bb94c51.rmeta: C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\lib.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\error.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\util.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\error_impls.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\windows.rs
+
+D:\OneDrive\Documents\GitHub\curso-rust\jogo_de_advinhacao\target\debug\deps\libgetrandom-f5bbccbd0bb94c51.rlib: C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\lib.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\error.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\util.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\error_impls.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\windows.rs
+
+D:\OneDrive\Documents\GitHub\curso-rust\jogo_de_advinhacao\target\debug\deps\getrandom-f5bbccbd0bb94c51.d: C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\lib.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\error.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\util.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\error_impls.rs C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\windows.rs
+
+C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\lib.rs:
+C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\error.rs:
+C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\util.rs:
+C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\error_impls.rs:
+C:\Users\comco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.14\src\windows.rs:
